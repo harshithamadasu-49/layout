@@ -1,0 +1,14 @@
+ *{
+    color: black;
+ }
+
+ div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-image: url("nature_photo.avif");
+    background-size: cover;
+    position: fixed;
+    top: 50px;
+    right: 0; 
+ }
